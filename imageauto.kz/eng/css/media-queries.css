@@ -1,0 +1,78 @@
+@media screen and (max-width: 990px) {
+	.center-header .menu li {
+		margin-left: 30px;
+	}
+	.header-top .menu {
+		width: 700px;
+	}
+	.header-top .menu li {
+		margin-left: 20px;
+	}
+	.promo .action {
+		margin-left: 10px;
+	}
+	.vantage li {
+		width: 180px;
+	}
+	.access li {
+		width: 240px;
+	}
+	.action-box .counter {
+		margin: 0 0 0 270px;
+	}
+	.process li {
+		width: 225px;
+	}
+	.site-footer .copy {
+		width: 300px; margin: 0 10px;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.access li {
+		width: 240px;
+	}
+	.process li {
+		width: 245px;
+	}
+	.slider-doc a.arr-l, .slider-doc a.arr-r {
+		left: 0;
+	}
+	.slider-doc a.arr-r {
+		left: auto; right: 0;
+	}
+	.action-box .counter {
+		margin: 0 0 0 240px;
+	}
+}
+@media screen and (max-width: 1090px) {
+	.promo .action {
+		margin-left: 80px;
+	}
+}
+@media screen and (max-width: 1050px) {
+	.promo .action {
+		margin-left: 10px;
+	}
+}
+@media screen and (max-width: 1050px) {
+	.promo .action {
+		margin-left: 10px;
+	}
+}
+
+@media only screen and (max-width: 480px),
+only screen and (max-device-width: 480px),
+only screen and (max-width: 320px),
+only screen and (max-device-width: 320px) {
+
+	.you-get li {
+		width: 300px;
+		margin: 50px 0px 0px 10px;
+	}
+	
+	/*.contact .info {
+		float: right; margin-right: 100px;
+	}*/
+
+}
+
